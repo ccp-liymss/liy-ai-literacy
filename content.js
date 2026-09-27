@@ -1,4 +1,4 @@
-/* Policy content is hand-curated from the user's draft v1. See 維護資料. */
+/* Bilingual student guidance and learning activities. */
 window.AI_CONTENT = (() => {
  const b = (zh,en) => ({zh,en});
  return {
